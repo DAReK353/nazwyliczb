@@ -11,6 +11,7 @@ for line in tekst:
     liczba.append(int(liczbazpliku))
 tekst.close()
 
+
 def fasfaeasd(strNazwa, intLiczba):
     for dzialanie, zapisywaniepliku in zip(intLiczba, strNazwa):
         print(dzialanie)
@@ -21,6 +22,7 @@ def fasfaeasd(strNazwa, intLiczba):
         plik = open('folder/'+zapisywaniepliku+'.txt', "w")
         plik.write(str(dzialanie))
         plik.close()
+
 
 t = threading.Thread(target=fasfaeasd, daemon=False,  args=(nazwa, liczba))
 t.start()
