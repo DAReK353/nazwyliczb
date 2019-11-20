@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="de091c8a-066c-4b10-9469-a0c85998082e" name="Default Changelist" comment="końcowe poprawki 1">
+    <list default="true" id="de091c8a-066c-4b10-9469-a0c85998082e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/start.py" beforeDir="false" afterPath="$PROJECT_DIR$/start.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -116,8 +117,25 @@
       <option name="project" value="LOCAL" />
       <updated>1574082930101</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="końcowa wersja">
+      <created>1574170045568</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1574170045568</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -142,6 +160,7 @@
     <MESSAGE value="kolejne poprawki" />
     <MESSAGE value="końcowe poprawki" />
     <MESSAGE value="końcowe poprawki 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="końcowe poprawki 1" />
+    <MESSAGE value="końcowa wersja" />
+    <option name="LAST_COMMIT_MESSAGE" value="końcowa wersja" />
   </component>
 </project>
